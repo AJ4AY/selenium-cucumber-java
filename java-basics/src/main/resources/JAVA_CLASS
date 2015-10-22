@@ -1,0 +1,24 @@
+**********Classes And Objects***********8
+
+-A Class defines the blueprint for an Object. OR Collections of objects
+
+-An Object is made up of Data Types and Functions.
+
+-Every function has a behaviour
+
+-We can access data within an Object via its Properties. With Functions, we can manipulate the state of an Object.
+
+-An Object’s  Properties and its associated Data is considered to be the building blocks any Object Oriented Programming Language.
+
+
+-We can restrict access to a class, its methods and properties.
+
+-By limiting access, we ENCAPSULATE implementation of a feature.
+
+-We hide implementation of certain features so as not to overburden users of our implementation with too much detail.
+
+-Restriction can also prevents prohibited access to certain class functionalities.
+
+
+
+

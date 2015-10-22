@@ -1,0 +1,20 @@
+*-Parameter
+
+When you pass a variable inside a method or a constructor it is called as passing a parameter
+
+Ex:
+
+public class Param{
+
+public int total( int aNumber ) {// passing parameter
+int a_Value = aNumber + 30;
+
+return a_Value; //returns a value
+}
+
+public int total( int aNumber ) {
+int a_Value = aNumber + 40;
+
+return a_Value;
+}
+}

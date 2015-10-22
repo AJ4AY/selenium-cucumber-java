@@ -1,0 +1,41 @@
+$$$$$$$$$$$$  Constructor   $$$$$$$$$$$$$$
+
+Constructor in java is a special type of method that is used to initialize the object.
+
+There are basically two rules defined for the constructor.
+
+1. Constructor name must be same as its class name
+2. Constructor must have no explicit return type
+
+
+$$$$$$$$$$$$$$$ Example $$$$$$$$$$$$$$$$$$$
+
+public Class Constructor{
+
+//this is a constructor
+
+public Constructor(){
+
+}
+}
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+
+SUPER KEYWORD
+
+The super keyword in java is a reference variable that is used to refer immediate parent class object.
+Whenever you create the instance of subclass, an instance of parent class is created implicitly
+i.e. referred by super reference variable.
+
+Usage of java super Keyword
+
+1. super is used to refer immediate parent class instance variable.
+2. super() is used to invoke immediate parent class constructor.
+3. super is used to invoke immediate parent class method.
+
+
+
+
+
+

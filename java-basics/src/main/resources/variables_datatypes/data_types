@@ -1,0 +1,27 @@
+Data Types in Java
+
+In java, there are two types of data types
+
+    1.primitive data types
+    2.non-primitive data types
+
+Data Type-------Default Value-------Default size
+
+1.boolean-----------false-----------1 bit
+2.char-----------'\u0000'-----------2 byte
+3.byte-----------0-----------1 byte
+4.short-----------0-----------2 byte
+5.int-----------0-----------4 byte
+6.long-----------0L-----------8 byte
+7.float-----------0.0f-----------4 byte
+8.double-----------0.0d-----------8 byte
+
+*-Why char uses 2 byte in java and what is \u0000 ?
+
+     because java uses unicode system rather than ASCII code system. \u0000 is the lowest range of unicode system.To get detail about Unicode see below.
+
+          lowest value:\u0000
+          highest value:\uFFFF
+
+*-Unicode System
+    Unicode is a universal international standard character encoding that is capable of representing most of the world's written languages.

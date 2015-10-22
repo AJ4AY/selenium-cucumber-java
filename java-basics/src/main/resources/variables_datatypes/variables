@@ -1,0 +1,46 @@
+* Variable-Variable is name of reserved area allocated in memory.
+
+Types of Variable
+
+There are three types of variables in java
+
+ 1 local variable
+ 2 instance variable
+ 3 static variable
+
+*-Local Variable-A variable that is declared inside the method is called local variable.
+
+*-Instance Variable- A variable that is declared inside the class but outside the method is called instance variable . It is not declared as static.
+
+
+*-Static variable-A variable that is declared as static is called static variable. It cannot be local.
+  We will have detailed learning of these variables in next chapters.
+
+
+  * declaring a variable
+
+  int a;
+  String anwar;
+
+  Declaring multiple variables
+
+  int a,b,c;
+  String Atif,Anwar,Sanjeev,Fawad;
+
+
+ * Initializing a variable
+
+  int a=1;
+  int b=null;
+
+  String Anwar= "Selenium Expert";
+
+
+
+Following are valid examples of variable declaration and initialization in Java:
+
+int a, b, c;         // Declares three ints, a, b, and c.
+int a = 10, b = 10;  // Example of initialization
+byte B = 22;         // initializes a byte type variable B.
+double pi = 3.14159; // declares and assigns a value of PI.
+char a = 'a';        // the char variable a iis initialized with value 'a'

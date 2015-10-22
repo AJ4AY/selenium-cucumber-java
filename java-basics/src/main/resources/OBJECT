@@ -1,0 +1,12 @@
+***************Objects Model Reality***********
+
+
+A classic exemplification of how an object mimics reality can be seen in Cars.
+
+Cars have properties such as make, model, colour, engine size, shape etc.
+
+It also has methods associated with it such as moving forward, Moving backwards,  turning headlights on in the dark, Stopping when breaks are applied etc.
+
+If we were to define a base Car Class, all future cars we attempt to create can inherit from this generic Car Class.
+
+This speeds-up the creation of a new Car as we don’t have to design it from scratch.

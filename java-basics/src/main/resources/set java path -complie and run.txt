@@ -1,0 +1,16 @@
+
+1) How to set Temporary Path of JDK in Windows
+
+To set the temporary path of JDK, you need to follow following steps:
+
+    Open command prompt
+    copy the path of jdk/bin directory
+    write in command prompt: set path=copied_path
+
+For Example:
+
+set path=C:\Program Files\Java\jdk1.8.0_31\bin
+
+
+To compile:	javac (Class Name).java
+To execute:	java (Class Name)
